@@ -163,3 +163,11 @@ else:
 
 ## Result
 Thus,the Python program that checks whether a given number is a palindrome using loops is created successfully.
+
+
+
+## REVIEW PAGE FOR MODULE
+
+
+<img width="1919" height="880" alt="image" src="https://github.com/user-attachments/assets/28b94de7-670b-4f1f-9e60-7ee704d68a6d" />
+
